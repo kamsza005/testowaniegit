@@ -1,8 +1,2 @@
-test pliku a
-tets pliku a cd.
-elo
-cos tam
-dodanie na komputerze
-dodanie na stronie gita
-dodanie na komputerze
+test w galezi
 
